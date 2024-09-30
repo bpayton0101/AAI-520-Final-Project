@@ -1,6 +1,8 @@
 # AAI-520-Final-Project
 Question-Answering and Chatbots Using Memory Networks
 
+![Chatbot Banner](ttps://botnation.ai/site/wp-content/uploads/2022/02/meilleur-chatbot.jpg)
+
 Chatbots are conversational agents  designed with the help of AI (Artificial Intelligence) software. They simulate a conversation (or a chat) with users in a natural language via messaging applications, websites, mobile apps, or phone (Irsath, 2021). Building a chatbot involves several key steps and can be approached in different ways. The best approach for building a chatbot depends on your specific needs and goals, and factors such as the complexity of the task and the desired level of sophistication should be taken into consideration. 
 
 Memory Networks are a type of neural network architecture specifically designed to handle tasks that require the ability to store and retrieve information from a large dataset. This makes them particularly well-suited for chatbots, which often need to remember and process large amounts of information from previous conversations. 
