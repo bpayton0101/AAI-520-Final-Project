@@ -9,7 +9,7 @@ Memory networks for Question-Answering Memory networks are a general class of ne
 
 Project Objectives include: (1) Examining the various components of an end-to-end trained chatbot models; and (2) Explore the challenges faced with using architectures like Seq2Seq, Transformers, GPT and deep learning
 
-##Dataset
+## Dataset
 The Cornell Movie Dialogue Corpus contains a metadata-rich collection of fictional conversations extracted from raw movie scripts: 
 - 220,579 conversational exchanges between 10,292 pairs of movie characters
 - involves 9,035 characters from 617 movies
