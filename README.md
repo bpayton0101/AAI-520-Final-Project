@@ -1,6 +1,7 @@
 # AAI-520-Final-Project: Developing a Conversational Chatbot GPT (Generative Pre-trained Transformer) and Diagloflow
 
 ![Chatbot Banner](https://github.com/bpayton0101/AAI-520-Final-Project/blob/main/Chatbot%20Images/Online-Chatbots-for-Ecommerce.png)
+Source: https://www.emarketexperts.com.au/
 
 ## Introduction
 
