@@ -79,10 +79,6 @@ Memory network models are a class of neural networks designed to handle tasks th
 We observed all of these challenges when piloting the movie_lines.txt file processing with this model, so we examined the models capabilities with two publicly available datasets called:  'train_qa.txt' and 'test_qa.txt'. The results of our research of the code for this model can reviewed in the Seq2Seq Deep Learning Notebook. This model was not selected as a baseline for our chatbot web interface due to various challenges with encoding and creating a suitable, clean training file for the memory network. Below, is exampple an Seq2Seq Memory Network model using Keras, tailored for the Cornell Movie Dialogs dataset. 
 
 
-# Example usage
-input_sequence = ...  # Input sequence for a query
-response = predict_response(input_sequence)
-print(response)
 
 
 ### Model 2: GPT with Dialogflow
