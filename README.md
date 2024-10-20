@@ -162,5 +162,12 @@ Weston, J., Chopra, S., & Bordes, A. (2015). Memory networks. Paper presented at
 
 Byiringiro, A., Shanmugamani, R., Muthuswamy, K., Arumugam, R., & Joshi, C. (2018). Question-Answering and Chatbots Using Memory Networks. In Hands-On Natural Language Processing with Python. Packt Publishing, Limited 
 
-![image](https://github.com/user-attachments/assets/b38ce83d-6a24-4536-bf97-c865c2c88fce)
+Code References:
+
+Chatbots-for-Beginners-A-Complete-Guide-to-Build-Chatbots: https://github.com/PacktPublishing/Chatbots-for-Beginners-A-Complete-Guide-to-Build-Chatbots/tree/main/Data
+
+Building-Smart-Chatbots-with-LangChain: https://github.com/PacktPublishing/Building-Smart-Chatbots-with-LangChain
+
+Keras neural network training for classifying questions (1) and answers (0): https://github.com/douglasdcm/chatbot_for_movies/tree/master/notebooks
+
 
