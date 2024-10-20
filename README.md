@@ -1,6 +1,6 @@
 # AAI-520-Final-Project: Developing a Conversational Chatbot GPT (Generative Pre-trained Transformer) and Diagloflow
 
-![Chatbot Banner](ttps://botnation.ai/site/wp-content/uploads/2022/02/meilleur-chatbot.jpg)
+![Chatbot Banner](https://github.com/bpayton0101/AAI-520-Final-Project/blob/main/Chatbot%20Images/Online-Chatbots-for-Ecommerce.png)
 
 ## Introduction
 
