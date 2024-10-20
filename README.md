@@ -150,4 +150,17 @@ This section summarizes the design and implementation of a fine-tuned DialoGPT m
 * **History Management:**  The chatbot maintains a conversation history for context in subsequent turns.
 
 
+### References:
+
+References:
+
+Irsath, M. (2021). Introduction to chatbots and how to test them. Eleviant Tech. Retrieved https://www.eleviant.com/insights/blog/chatbots-and-how-to-test-them/
+
+Law, M.(2022).From ELIZA to ChatGPT: The evolution of chatbots technology. Technology. Magazine. Retrieved https://technologymagazine.com/articles/from-eliza-to-chatgpt-the-evolution-of-chatbots-technology
+
+Weston, J., Chopra, S., & Bordes, A. (2015). Memory networks. Paper presented at 3rd International Conference on Learning Representations, ICLR 2015, San Diego, United States.
+
+Byiringiro, A., Shanmugamani, R., Muthuswamy, K., Arumugam, R., & Joshi, C. (2018). Question-Answering and Chatbots Using Memory Networks. In Hands-On Natural Language Processing with Python. Packt Publishing, Limited 
+
+![image](https://github.com/user-attachments/assets/b38ce83d-6a24-4536-bf97-c865c2c88fce)
 
