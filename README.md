@@ -12,16 +12,20 @@ The goal of this project is to build a chatbot that can carry out multi-turn con
 variety of topics, via web or app interface where users can converse with the chatbot. This project will use the Cornell Movie Dialogs Corpus to examine generative-based chatbot architectures like Seq2Seq, Transformers, Generative Pre-trained Transformer (GPT) and deep learning. 
 
 Project Pre-requisites:
-	• Basic understanding of deep learning and neural networks.
+	• Basic understanding of deep learning and neural networks
+ 
 	• Familiarity with a deep learning framework (e.g., TensorFlow, PyTorch)
+ 
 	• Basic knowledge of web development (for the interface)
 
 Project Phases:
 	• Research and Study Phase
+ 
 	• Data Collection and Preprocessing
+ 
 	• Model Design and Training
- - Evaluation
-
+ 
+ 	• Evaluation
 
 
 
