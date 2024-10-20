@@ -11,12 +11,12 @@ Building a chatbot involves several key steps and can be approached in different
 The goal of this project is to build a chatbot that can carry out multi-turn conversations, adapt to context, and handle a
 variety of topics, via web or app interface where users can converse with the chatbot. This project will use the Cornell Movie Dialogs Corpus to examine generative-based chatbot architectures like Seq2Seq, Transformers, Generative Pre-trained Transformer (GPT) and deep learning. 
 
-Project Prerequisites:
+**Project Prerequisites:**
 * Basic understanding of deep learning and neural networks.
 * Familiarity with a deep learning framework (e.g., TensorFlow, PyTorch)
 * Basic knowledge of web development (for the interface)
  
-Project Phases:
+**Project Phases:**
 * Research and Study Phase
 * Data Collection and Preprocessing
 * Model Design and Training
@@ -33,7 +33,7 @@ Project Phases:
 
 
 
-## Dataset
+## Cornell Movie Dialog Corpus
 The Cornell Movie Dialogue Corpus contains a metadata-rich collection of fictional conversations extracted from raw movie scripts:
 
 - 220,579 conversational exchanges between 10,292 pairs of movie characters
@@ -76,15 +76,13 @@ Memory network models are a class of neural networks designed to handle tasks th
 #### 6. Evaluation Metrics:
 * Task-Specific Evaluation: Evaluating the performance of multi-conversational chatbots requires task-specific metrics that go beyond traditional metrics like accuracy or F1-score
 
-We observed all of these challenges when piloting the movie_lines.txt file processing with this model, so we examined the models capabilities with two publicly available datasets called:  'train_qa.txt' and 'test_qa.txt'. The results of our research of this model are cited below and the code for this model can reviewed in the Seq2Seq Deep Learning Notebook. This model was not selected as a baseline for our chatbot web interface due to various challenges with encoding and creating a suitable, clean training file for the memory network.
+We observed all of these challenges when piloting the movie_lines.txt file processing with this model, so we examined the models capabilities with two publicly available datasets called:  'train_qa.txt' and 'test_qa.txt'. The results of our research of the code for this model can reviewed in the Seq2Seq Deep Learning Notebook. This model was not selected as a baseline for our chatbot web interface due to various challenges with encoding and creating a suitable, clean training file for the memory network. Below, is exampple an Seq2Seq Memory Network model using Keras, tailored for the Cornell Movie Dialogs dataset. 
 
-Accuracy: 0.503
 
-Precision: 0.253
-
-Recall: 0.503
-
-F1-score: 0.3366
+# Example usage
+input_sequence = ...  # Input sequence for a query
+response = predict_response(input_sequence)
+print(response)
 
 
 ### Model 2: GPT with Dialogflow
