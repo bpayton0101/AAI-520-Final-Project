@@ -148,7 +148,7 @@ This section summarizes the design and implementation of a fine-tuned DialoGPT m
 * **Gradient Clipping:** To prevent exploding gradients, gradient clipping (`torch.nn.utils.clip_grad_norm_`) is implemented with a `max_norm` of 1.0.  This helps stabilize training by limiting the magnitude of gradients during backpropagation.
 * **Gradient Accumulation:** Gradients are accumulated over 2 batches before updating model parameters. This simulates a larger batch size while reducing memory requirements.
 
-### Evaluation
+### Interface and Deployment
 
 4. Inference and Deployment:
 
